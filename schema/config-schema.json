@@ -65,6 +65,9 @@
                 "args": {
                     "$ref": "defs.json#/definitions/ArrayOfStrings"
                 },
+                "vargs": {
+                    "$ref": "defs.json#/definitions/ArrayOfStrings"
+                },
                 "commandLine": {
                     "type": "string"
                 },
